@@ -1,1 +1,1 @@
-# DataMining BintangW
+# DataMining Latihan Data Minin
