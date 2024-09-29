@@ -1,1 +1,1 @@
-# DataMining Latihan Data Minin
+# DataMining Latihan Data Mining
